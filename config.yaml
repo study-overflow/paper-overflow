@@ -7,7 +7,7 @@ show_links: True
 show_badge: False
 max_results: 20
 
-publish_readme: True
+publish_readme: False
 publish_gitpage: True
 publish_wechat: False
 
@@ -23,8 +23,12 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     # --------- My Keywords ---------
+    "Video Generation Model":
+        filters: ["Video Generation Model", "Video Generation Models", "Video Generation", "Video Generation"]
     "Manipulation":
         filters: ["Robot Manipulation", "Robotic Manipulation", "Robot Learning", "Imitation Learning"]
+    "World Model":
+        filters: ["World Model", "World Models", "World Model", "World Models"]
     "VLM":
         filters: ["Vision Language Model", "Vision Language Models", "Vision-Language Model", "Vision-Language Models"]
     "VLA":
@@ -33,3 +37,5 @@ keywords:
         filters: ["Humanoid Robot", "Humanoid"]
     "Dexterous":
         filters: ["Dexterous Manipulation", "Dexterous hand", "Dexterity", "Dexterous"]
+    "3D Vision":
+        filters: ["3D Vision", "3D Vision Models", "3D Vision", "3D Vision", "3D Reconstruction", "3D Generation", "3D Generation Models", "3D Generation", "3D Reconstruction", "3D Reconstruction Models", "3D Representation", "3D Representations", "3D Representation Learning", "3D Representation Learning Models"]

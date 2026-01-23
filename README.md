@@ -1,19 +1,11 @@
-## Updated on 2026.01.23
-> Usage instructions: [here](./docs/README.md#usage)
+# 📚 Paper Overflow
 
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href=#manipulation>Manipulation</a></li>
-    <li><a href=#vlm>VLM</a></li>
-    <li><a href=#vla>VLA</a></li>
-    <li><a href=#humanoid>Humanoid</a></li>
-    <li><a href=#dexterous>Dexterous</a></li>
-  </ol>
-</details>
+[![Daily Update](https://github.com/study-overflow/paper-overflow/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/study-overflow/paper-overflow/actions/workflows/cv-arxiv-daily.yml)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
-## Manipulation
+## 🤔 What is this?
 
+<<<<<<< HEAD
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2026-01-22**|**DTP: A Simple yet Effective Distracting Token Pruning Framework for Vision-Language Action Models**|Jingqun Tang Team|[2601.16065](http://arxiv.org/abs/2601.16065)|null|
@@ -1719,11 +1711,23 @@
 |**2018-11-08**|**RoboTurk: A Crowdsourcing Platform for Robotic Skill Learning through Imitation**|Li Fei-Fei Team|[1811.02790](http://arxiv.org/abs/1811.02790)|null|
 |**2018-10-09**|**Robustness via Retrying: Closed-Loop Robotic Manipulation with Self-Supervised Learning**|Chelsea Finn Team|[1810.03043](http://arxiv.org/abs/1810.03043)|null|
 |**2017-10-27**|**Learning Robotic Manipulation of Granular Media**|Sergey Levine Team|[1709.02833](http://arxiv.org/abs/1709.02833)|null|
+=======
+This is my personal **paper tracking system** that automatically crawls arXiv every 12 hours to fetch the latest papers in my research interests.
+>>>>>>> 4f176d41 (personalized, updated README.md)
 
-<p align=right>(<a href=#updated-on-20260123>back to top</a>)</p>
+<br>
 
-## VLM
+<div align="center">
+  <a href="https://www.zzhang.tech/paper-overflow/">
+    <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-Paper_Tracker-224b8d?style=for-the-badge&labelColor=1a1a2e" alt="Live Demo">
+  </a>
+  <br><br>
+  <a href="https://www.zzhang.tech/paper-overflow/">
+    <b>👉 www.zzhang.tech/paper-overflow 👈</b>
+  </a>
+</div>
 
+<<<<<<< HEAD
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2026-01-22**|**Point Bridge: 3D Representations for Cross Domain Policy Learning**|Ajay Mandlekar Team|[2601.16212](http://arxiv.org/abs/2601.16212)|null|
@@ -4509,11 +4513,15 @@
 |**2023-11-08**|**Investigating the Role of Attribute Context in Vision-Language Models for Object Recognition and Detection**|Adriana Kovashka Team|[2303.10093](http://arxiv.org/abs/2303.10093)|null|
 |**2024-04-19**|**VLP: A Survey on Vision-Language Pre-training**|Bo Xu Team|[2202.09061](http://arxiv.org/abs/2202.09061)|null|
 |**2022-10-07**|**Learning to Prompt for Vision-Language Models**|Ziwei Liu Team|[2109.01134](http://arxiv.org/abs/2109.01134)|null|
+=======
+<br>
+>>>>>>> 4f176d41 (personalized, updated README.md)
 
-<p align=right>(<a href=#updated-on-20260123>back to top</a>)</p>
+## 🎯 Research Topics
 
-## VLA
+<div align="center">
 
+<<<<<<< HEAD
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2026-01-22**|**IVRA: Improving Visual-Token Relations for Robot Action Policy with Training-Free Hint-Based Guidance**|Michael S Ryoo Team|[2601.16207](http://arxiv.org/abs/2601.16207)|null|
@@ -5141,11 +5149,21 @@
 |**2022-06-01**|**ADAPT: Vision-Language Navigation with Modality-Aligned Action Prompts**|Xiaodan Liang Team|[2205.15509](http://arxiv.org/abs/2205.15509)|null|
 |**2022-08-16**|**A Dataset for Interactive Vision-Language Navigation with Unknown Command Feasibility**|Bryan A. Plummer Team|[2202.02312](http://arxiv.org/abs/2202.02312)|null|
 |**2017-04-25**|**An Analysis of Action Recognition Datasets for Language and Vision Tasks**|Frank Keller Team|[1704.07129](http://arxiv.org/abs/1704.07129)|null|
+=======
+![Video Generation](https://img.shields.io/badge/🎬_Video_Generation-ff6b6b?style=flat-square)
+![Robot Manipulation](https://img.shields.io/badge/🤖_Robot_Manipulation-4ecdc4?style=flat-square)
+![World Model](https://img.shields.io/badge/🌍_World_Model-45b7d1?style=flat-square)
+![VLM](https://img.shields.io/badge/👁️_Vision--Language_Model-96ceb4?style=flat-square)
+>>>>>>> 4f176d41 (personalized, updated README.md)
 
-<p align=right>(<a href=#updated-on-20260123>back to top</a>)</p>
+![VLA](https://img.shields.io/badge/🎮_Vision--Language--Action-dda0dd?style=flat-square)
+![Humanoid](https://img.shields.io/badge/🚶_Humanoid-ffeaa7?style=flat-square)
+![Dexterous](https://img.shields.io/badge/🖐️_Dexterous_Manipulation-74b9ff?style=flat-square)
+![3D Vision](https://img.shields.io/badge/🧊_3D_Vision-a29bfe?style=flat-square)
 
-## Humanoid
+</div>
 
+<<<<<<< HEAD
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2026-01-21**|**Learning a Unified Latent Space for Cross-Embodiment Robot Control**|Dongheui Lee Team|[2601.15419](http://arxiv.org/abs/2601.15419)|null|
@@ -5717,4 +5735,9 @@
 |**2017-03-21**|**Learning Dexterous Manipulation for a Soft Robotic Hand from Human Demonstration**|Pieter Abbeel Team|[1603.06348](http://arxiv.org/abs/1603.06348)|null|
 
 <p align=right>(<a href=#updated-on-20260123>back to top</a>)</p>
+=======
+## 🙏 Acknowledgments
+>>>>>>> 4f176d41 (personalized, updated README.md)
 
+This project is built upon:
+- [jiangranlv/robotics_arXiv_daily](https://github.com/jiangranlv/robotics_arXiv_daily) - The original implementation that inspired this project. Thanks for the great work! 🎉
