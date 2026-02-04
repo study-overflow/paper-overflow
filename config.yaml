@@ -41,3 +41,5 @@ keywords:
         filters: ["3D Vision", "3D Vision Models", "3D Vision", "3D Vision", "3D Reconstruction", "3D Generation", "3D Generation Models", "3D Generation", "3D Reconstruction", "3D Reconstruction Models", "3D Representation", "3D Representations", "3D Representation Learning", "3D Representation Learning Models"]
     "Test Time Training":
         filters: ["Test Time Training", "Test Time Adapting"]  
+    "Video Action Model"
+        filters: ["Video Action Model", "World Action Model", "Unified World Model"]
