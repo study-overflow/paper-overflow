@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.03.25
+## Updated on 2026.03.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**Chameleon: Episodic Memory for Long-Horizon Robotic Manipulation**|Jianfei Yang Team|[2603.24576](http://arxiv.org/abs/2603.24576)|**[link](https://github.com/gxyes/MARS_Chameleon)**|
+|**2026-03-25**|**A Sensorless, Inherently Compliant Anthropomorphic Musculoskeletal Hand Driven by Electrohydraulic Actuators**|Robert K. Katzschmann Team|[2603.24357](http://arxiv.org/abs/2603.24357)|null|
+|**2026-03-25**|**Evidence of an Emergent "Self" in Continual Robot Learning**|Hod Lipson Team|[2603.24350](http://arxiv.org/abs/2603.24350)|null|
+|**2026-03-25**|**Toward Generalist Neural Motion Planners for Robotic Manipulators: Challenges and Opportunities**|Minghui Zheng Team|[2603.24318](http://arxiv.org/abs/2603.24318)|null|
+|**2026-03-25**|**Knowledge-Guided Manipulation Using Multi-Task Reinforcement Learning**|Aleksandr Panov Team|[2603.24083](http://arxiv.org/abs/2603.24083)|null|
 |**2026-03-24**|**ABot-PhysWorld: Interactive World Foundation Model for Robotic Manipulation with Physics Alignment**|Mu Xu Team|[2603.23376](http://arxiv.org/abs/2603.23376)|null|
 |**2026-03-24**|**Efficient Hybrid SE(3)-Equivariant Visuomotor Flow Policy via Spherical Harmonics for Robot Manipulation**|Shuaicheng Liu Team|[2603.23227](http://arxiv.org/abs/2603.23227)|null|
 |**2026-03-24**|**Gaze-Regularized Vision-Language-Action Models for Robotic Manipulation**|Yanchao Yang Team|[2603.23202](http://arxiv.org/abs/2603.23202)|null|
@@ -2160,6 +2165,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**Vision-Language Models vs Human: Perceptual Image Quality Assessment**|Brian Deegan Team|[2603.24578](http://arxiv.org/abs/2603.24578)|null|
+|**2026-03-25**|**VFIG: Vectorizing Complex Figures in SVG with Vision-Language Models**|Ranjay Krishna Team|[2603.24575](http://arxiv.org/abs/2603.24575)|null|
+|**2026-03-25**|**LensWalk: Agentic Video Understanding by Planning How You See in Videos**|Shiguang Shan Team|[2603.24558](http://arxiv.org/abs/2603.24558)|null|
+|**2026-03-25**|**Cross-Modal Prototype Alignment and Mixing for Training-Free Few-Shot Classification**|Joost van de Weijer Team|[2603.24528](http://arxiv.org/abs/2603.24528)|null|
+|**2026-03-25**|**Unleashing Vision-Language Semantics for Deepfake Video Detection**|Guansong Pang Team|[2603.24454](http://arxiv.org/abs/2603.24454)|null|
+|**2026-03-25**|**ViHOI: Human-Object Interaction Synthesis with Visual Priors**|Changxing Ding Team|[2603.24383](http://arxiv.org/abs/2603.24383)|null|
+|**2026-03-25**|**GeoRouter: Dynamic Paradigm Routing for Worldwide Image Geolocalization**|Xiangyu Zhao Team|[2603.24376](http://arxiv.org/abs/2603.24376)|null|
+|**2026-03-25**|**PP-OCRv5: A Specialized 5M-Parameter Model Rivaling Billion-Parameter Vision-Language Models on OCR Tasks**|Yi Liu Team|[2603.24373](http://arxiv.org/abs/2603.24373)|null|
+|**2026-03-25**|**Boosting Document Parsing Efficiency and Performance with Coarse-to-Fine Visual Processing**|Yanjun Ma Team|[2603.24326](http://arxiv.org/abs/2603.24326)|null|
+|**2026-03-25**|**Language-Assisted Image Clustering Guided by Discriminative Relational Signals and Adaptive Semantic Centers**|Yuheng Jia Team|[2603.24275](http://arxiv.org/abs/2603.24275)|null|
+|**2026-03-25**|**Memory-Augmented Vision-Language Agents for Persistent and Semantically Consistent Object Captioning**|Lorenzo Natale Team|[2603.24257](http://arxiv.org/abs/2603.24257)|null|
+|**2026-03-25**|**RVLM: Recursive Vision-Language Models with Adaptive Depth**|Farhad Oroumchian Team|[2603.24224](http://arxiv.org/abs/2603.24224)|null|
+|**2026-03-25**|**Unlocking Few-Shot Capabilities in LVLMs via Prompt Conditioning and Head Selection**|Gabriele Facciolo Team|[2603.24181](http://arxiv.org/abs/2603.24181)|null|
+|**2026-03-25**|**CarePilot: A Multi-Agent Framework for Long-Horizon Computer Task Automation in Healthcare**|Salman Khan Team|[2603.24157](http://arxiv.org/abs/2603.24157)|null|
+|**2026-03-25**|**Mitigating Object Hallucinations in LVLMs via Attention Imbalance Rectification**|Min Zhang Team|[2603.24058](http://arxiv.org/abs/2603.24058)|null|
+|**2026-03-25**|**Beyond Semantic Priors: Mitigating Optimization Collapse for Generalizable Visual Forensics**|Xiao-Yu Zhang Team|[2603.24057](http://arxiv.org/abs/2603.24057)|null|
+|**2026-03-25**|**ELITE: Experiential Learning and Intent-Aware Transfer for Self-improving Embodied Agents**|Yongtao Wang Team|[2603.24018](http://arxiv.org/abs/2603.24018)|null|
+|**2026-03-25**|**Revealing Multi-View Hallucination in Large Vision-Language Models**|Byonghyo Shim Team|[2603.23934](http://arxiv.org/abs/2603.23934)|null|
+|**2026-03-25**|**DP^2-VL: Private Photo Dataset Protection by Data Poisoning for Vision-Language Models**|Guangtao Zhai Team|[2603.23925](http://arxiv.org/abs/2603.23925)|null|
+|**2026-03-25**|**Attention-aware Inference Optimizations for Large Vision-Language Models with Memory-efficient Decoding**|Ling Liu Team|[2603.23914](http://arxiv.org/abs/2603.23914)|null|
 |**2026-03-24**|**MedObvious: Exposing the Medical Moravec's Paradox in VLMs via Clinical Triage**|Muhammad Haris Khan Team|[2603.23501](http://arxiv.org/abs/2603.23501)|null|
 |**2026-03-24**|**VISion On Request: Enhanced VLLM efficiency with sparse, dynamically selected, vision-language interactions**|Georgios Tzimiropoulos Team|[2603.23495](http://arxiv.org/abs/2603.23495)|null|
 |**2026-03-24**|**ARGENT: Adaptive Hierarchical Image-Text Representations**|Suren Kumar Team|[2603.23311](http://arxiv.org/abs/2603.23311)|null|
@@ -5620,6 +5645,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**TAG: Target-Agnostic Guidance for Stable Object-Centric Inference in Vision-Language-Action Models**|Guangrun Wang Team|[2603.24584](http://arxiv.org/abs/2603.24584)|null|
+|**2026-03-25**|**3D-Mix for VLA: A Plug-and-Play Module for Integrating VGGT-based 3D Information into Vision-Language-Action Models**|Kai Chen Team|[2603.24393](http://arxiv.org/abs/2603.24393)|null|
+|**2026-03-25**|**SOMA: Strategic Orchestration and Memory-Augmented System for Vision-Language-Action Model Robustness via In-Context Adaptation**|Jinyu Gu Team|[2603.24060](http://arxiv.org/abs/2603.24060)|null|
 |**2026-03-24**|**Gaze-Regularized Vision-Language-Action Models for Robotic Manipulation**|Yanchao Yang Team|[2603.23202](http://arxiv.org/abs/2603.23202)|null|
 |**2026-03-24**|**TRAP: Hijacking VLA CoT-Reasoning via Adversarial Patches**|Wenyuan Xu Team|[2603.23117](http://arxiv.org/abs/2603.23117)|null|
 |**2026-03-24**|**VLA-IAP: Training-Free Visual Token Pruning via Interaction Alignment for Vision-Language-Action Models**|Wei Zhang Team|[2603.22991](http://arxiv.org/abs/2603.22991)|null|
@@ -6542,6 +6570,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**PCHC: Enabling Preference Conditioned Humanoid Control via Multi-Objective Reinforcement Learning**|Xuelong Li Team|[2603.24047](http://arxiv.org/abs/2603.24047)|null|
+|**2026-03-25**|**MIRROR: Visual Motion Imitation via Real-time Retargeting and Teleoperation with Parallel Differential Inverse Kinematics**|Aaron D. Ames Team|[2603.23995](http://arxiv.org/abs/2603.23995)|null|
 |**2026-03-24**|**A Multimodal Framework for Human-Multi-Agent Interaction**|Tariq Iqbal Team|[2603.23271](http://arxiv.org/abs/2603.23271)|null|
 |**2026-03-24**|**Human vs. NAO: A Computational-Behavioral Framework for Quantifying Social Orienting in Autism and Typical Development**|Bishakh Bhattacharya Team|[2603.22759](http://arxiv.org/abs/2603.22759)|null|
 |**2026-03-24**|**Learning Safe-Stoppability Monitors for Humanoid Robots**|Changliu Liu Team|[2603.22703](http://arxiv.org/abs/2603.22703)|null|
@@ -7277,6 +7307,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving**|Dongbin Zhao Team|[2603.24587](http://arxiv.org/abs/2603.24587)|null|
+|**2026-03-25**|**Anti-I2V: Safeguarding your photos from malicious image-to-video generation**|Anh Tran Team|[2603.24570](http://arxiv.org/abs/2603.24570)|null|
+|**2026-03-25**|**Toward Physically Consistent Driving Video World Models under Challenging Trajectories**|Yu Li Team|[2603.24506](http://arxiv.org/abs/2603.24506)|null|
+|**2026-03-25**|**OmniWeaving: Towards Unified Video Generation with Free-form Composition and Reasoning**|Zhao Zhong Team|[2603.24458](http://arxiv.org/abs/2603.24458)|**[link](https://omniweaving.github.io)**|
+|**2026-03-25**|**ScrollScape: Unlocking 32K Image Generation With Video Diffusion Priors**|Wangmeng Zuo Team|[2603.24270](http://arxiv.org/abs/2603.24270)|null|
 |**2026-03-24**|**WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG**|Kaipeng Zhang Team|[2603.23497](http://arxiv.org/abs/2603.23497)|null|
 |**2026-03-24**|**Foveated Diffusion: Efficient Spatially Adaptive Image and Video Generation**|Gordon Wetzstein Team|[2603.23491](http://arxiv.org/abs/2603.23491)|**[link](https://bchao1.github.io/foveated-diffusion)**|
 |**2026-03-24**|**RealMaster: Lifting Rendered Scenes into Photorealistic Video**|Amit Zohar Team|[2603.23462](http://arxiv.org/abs/2603.23462)|**[link](https://danacohen95.github.io/RealMaster/)**|
@@ -7287,7 +7322,7 @@ layout: default
 |**2026-03-24**|**InterDyad: Interactive Dyadic Speech-to-Video Generation by Querying Intermediate Visual Guidance**|Hang Zhou Team|[2603.23132](http://arxiv.org/abs/2603.23132)|**[link](https://interdyad.github.io/)**|
 |**2026-03-23**|**TrajLoom: Dense Future Trajectory Generation from Video**|Renjie Liao Team|[2603.22606](http://arxiv.org/abs/2603.22606)|**[link](https://trajloom.github.io/)**|
 |**2026-03-23**|**Omni-WorldBench: Towards a Comprehensive Interaction-Centric Evaluation for World Models**|Kaiqi Huang Team|[2603.22212](http://arxiv.org/abs/2603.22212)|null|
-|**2026-03-23**|**PAM: A Pose-Appearance-Motion Engine for Sim-to-Real HOI Video Generation**|Hao Zhao Team|[2603.22193](http://arxiv.org/abs/2603.22193)|**[link](https://github.com/GasaiYU/PAM)**|
+|**2026-03-25**|**PAM: A Pose-Appearance-Motion Engine for Sim-to-Real HOI Video Generation**|Hao Zhao Team|[2603.22193](http://arxiv.org/abs/2603.22193)|**[link](https://github.com/GasaiYU/PAM)**|
 |**2026-03-23**|**P-Flow: Prompting Visual Effects Generation**|Mike Zheng Shou Team|[2603.22091](http://arxiv.org/abs/2603.22091)|null|
 |**2026-03-23**|**Speed by Simplicity: A Single-Stream Architecture for Fast Audio-Video Generative Foundation Model**|Pengfei Liu Team|[2603.21986](http://arxiv.org/abs/2603.21986)|null|
 |**2026-03-23**|**Manifold-Aware Exploration for Reinforcement Learning in Video Generation**|Harry Yang Team|[2603.21872](http://arxiv.org/abs/2603.21872)|null|
@@ -7589,6 +7624,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving**|Dongbin Zhao Team|[2603.24587](http://arxiv.org/abs/2603.24587)|null|
+|**2026-03-25**|**Latent-WAM: Latent World Action Modeling for End-to-End Autonomous Driving**|Dongbin Zhao Team|[2603.24581](http://arxiv.org/abs/2603.24581)|null|
+|**2026-03-25**|**SEGAR: Selective Enhancement for Generative Augmented Reality**|Hiroshi Yasuda Team|[2603.24541](http://arxiv.org/abs/2603.24541)|null|
+|**2026-03-25**|**Toward Physically Consistent Driving Video World Models under Challenging Trajectories**|Yu Li Team|[2603.24506](http://arxiv.org/abs/2603.24506)|null|
+|**2026-03-25**|**CUA-Suite: Massive Human-annotated Video Demonstrations for Computer-Use Agents**|Sai Rajeswar Team|[2603.24440](http://arxiv.org/abs/2603.24440)|**[link](https://cua-suite.github.io/)**|
+|**2026-03-25**|**AI-Supervisor: Autonomous AI Research Supervision via a Persistent Research World Model**|Yunbo Long Team|[2603.24402](http://arxiv.org/abs/2603.24402)|null|
+|**2026-03-25**|**GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents**|Volkan Ustun Team|[2603.24329](http://arxiv.org/abs/2603.24329)|null|
+|**2026-03-24**|**Environment Maps: Structured Environmental Representations for Long-Horizon Agents**|Karime Maamari Team|[2603.23610](http://arxiv.org/abs/2603.23610)|null|
 |**2026-03-24**|**WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG**|Kaipeng Zhang Team|[2603.23497](http://arxiv.org/abs/2603.23497)|null|
 |**2026-03-24**|**VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs**|Ismini Lourentzou Team|[2603.23481](http://arxiv.org/abs/2603.23481)|**[link](https://plan-lab.github.io/projects/vtam/)**|
 |**2026-03-24**|**ABot-PhysWorld: Interactive World Foundation Model for Robotic Manipulation with Physics Alignment**|Mu Xu Team|[2603.23376](http://arxiv.org/abs/2603.23376)|null|
@@ -7905,6 +7948,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**EndoVGGT: GNN-Enhanced Depth Estimation for Surgical 3D Reconstruction**|Jerzy Rozenblit Team|[2603.24577](http://arxiv.org/abs/2603.24577)|null|
+|**2026-03-25**|**3D-Mix for VLA: A Plug-and-Play Module for Integrating VGGT-based 3D Information into Vision-Language-Action Models**|Kai Chen Team|[2603.24393](http://arxiv.org/abs/2603.24393)|null|
+|**2026-03-25**|**TopoMesh: High-Fidelity Mesh Autoencoding via Topological Unification**|Jianfeng Zhang Team|[2603.24278](http://arxiv.org/abs/2603.24278)|null|
+|**2026-03-25**|**LightSplat: Fast and Memory-Efficient Open-Vocabulary 3D Scene Understanding in Five Seconds**|Kyungdon Joo Team|[2603.24146](http://arxiv.org/abs/2603.24146)|null|
+|**2026-03-25**|**SLAT-Phys: Fast Material Property Field Prediction from Structured 3D Latents**|Dinesh Manocha Team|[2603.23973](http://arxiv.org/abs/2603.23973)|null|
+|**2026-03-24**|**AdvSplat: Adversarial Attacks on Feed-Forward Gaussian Splatting Models**|Jing Ma Team|[2603.23686](http://arxiv.org/abs/2603.23686)|null|
 |**2026-03-24**|**One View Is Enough! Monocular Training for In-the-Wild Novel View Generation**|David Picard Team|[2603.23488](http://arxiv.org/abs/2603.23488)|null|
 |**2026-03-24**|**I3DM: Implicit 3D-aware Memory Retrieval and Injection for Consistent Video Scene Generation**|Pan Ji Team|[2603.23413](http://arxiv.org/abs/2603.23413)|**[link](https://riga2.github.io/i3dm)**|
 |**2026-03-24**|**SIMART: Decomposing Monolithic Meshes into Sim-ready Articulated Assets via MLLM**|Ziwei Wang Team|[2603.23386](http://arxiv.org/abs/2603.23386)|null|
@@ -7917,7 +7966,7 @@ layout: default
 |**2026-03-23**|**UrbanVGGT: Scalable Sidewalk Width Estimation from Street View Images**|Fan Zhang Team|[2603.22531](http://arxiv.org/abs/2603.22531)|null|
 |**2026-03-23**|**Static Scene Reconstruction from Dynamic Egocentric Videos**|Patrick Chen Team|[2603.22450](http://arxiv.org/abs/2603.22450)|null|
 |**2026-03-23**|**Omni-WorldBench: Towards a Comprehensive Interaction-Centric Evaluation for World Models**|Kaiqi Huang Team|[2603.22212](http://arxiv.org/abs/2603.22212)|null|
-|**2026-03-23**|**Adapting Point Cloud Analysis via Multimodal Bayesian Distribution Learning**|Hanwang Zhang Team|[2603.22070](http://arxiv.org/abs/2603.22070)|null|
+|**2026-03-25**|**Adapting Point Cloud Analysis via Multimodal Bayesian Distribution Learning**|Hanwang Zhang Team|[2603.22070](http://arxiv.org/abs/2603.22070)|null|
 |**2026-03-23**|**Charting the Diameter Computation Landscape of Geometric Intersection Graphs in Three Dimensions and Higher**|Da Wei Zheng Team|[2603.21790](http://arxiv.org/abs/2603.21790)|null|
 |**2026-03-23**|**From Part to Whole: 3D Generative World Model with an Adaptive Structural Hierarchy**|Wei Hu Team|[2603.21557](http://arxiv.org/abs/2603.21557)|null|
 |**2026-03-23**|**Back to Point: Exploring Point-Language Models for Zero-Shot 3D Anomaly Detection**|Jin Wan Team|[2603.21511](http://arxiv.org/abs/2603.21511)|null|
@@ -8246,7 +8295,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-03-23**|**Adapting Point Cloud Analysis via Multimodal Bayesian Distribution Learning**|Hanwang Zhang Team|[2603.22070](http://arxiv.org/abs/2603.22070)|null|
+|**2026-03-25**|**Adapting Point Cloud Analysis via Multimodal Bayesian Distribution Learning**|Hanwang Zhang Team|[2603.22070](http://arxiv.org/abs/2603.22070)|null|
 |**2026-03-23**|**The Golden Subspace: Where Efficiency Meets Generalization in Continual Test-Time Adaptation**|Han-Jia Ye Team|[2603.21928](http://arxiv.org/abs/2603.21928)|null|
 |**2026-03-23**|**Dual-level Adaptation for Multi-Object Tracking: Building Test-Time Calibration from Experience and Intuition**|Junyu Gao Team|[2603.21629](http://arxiv.org/abs/2603.21629)|null|
 |**2026-03-24**|**Test-Time Adaptation via Cache Personalization for Facial Expression Recognition in Videos**|Eric Granger Team|[2603.21309](http://arxiv.org/abs/2603.21309)|null|
@@ -8359,6 +8408,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**Latent-WAM: Latent World Action Modeling for End-to-End Autonomous Driving**|Dongbin Zhao Team|[2603.24581](http://arxiv.org/abs/2603.24581)|null|
 |**2026-03-24**|**VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs**|Ismini Lourentzou Team|[2603.23481](http://arxiv.org/abs/2603.23481)|**[link](https://plan-lab.github.io/projects/vtam/)**|
 |**2026-03-23**|**Do World Action Models Generalize Better than VLAs? A Robustness Study**|Yingxue Zhang Team|[2603.22078](http://arxiv.org/abs/2603.22078)|null|
 |**2026-03-19**|**VAMPO: Policy Optimization for Improving Visual Dynamics in Video Action Models**|Donglin Wang Team|[2603.19370](http://arxiv.org/abs/2603.19370)|null|
