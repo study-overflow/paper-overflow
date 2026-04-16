@@ -2,13 +2,20 @@
 layout: default
 ---
 
-## Updated on 2026.04.15
+## Updated on 2026.04.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-15**|**HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System**|Ping Luo Team|[2604.14125](http://arxiv.org/abs/2604.14125)|**[link](https://tianshuoy.github.io/HiVLA-page/)**|
+|**2026-04-15**|**Failure Identification in Imitation Learning Via Statistical and Semantic Filtering**|Jean-Baptiste Mouret Team|[2604.13788](http://arxiv.org/abs/2604.13788)|null|
+|**2026-04-15**|**Jump-Start Reinforcement Learning with Vision-Language-Action Regularization**|Loris Roveda Team|[2604.13733](http://arxiv.org/abs/2604.13733)|null|
+|**2026-04-15**|**Doc-V*:Coarse-to-Fine Interactive Visual Reasoning for Multi-Page Document VQA**|Xiang Bai Team|[2604.13731](http://arxiv.org/abs/2604.13731)|null|
+|**2026-04-15**|**A Mechanistic Analysis of Sim-and-Real Co-Training in Generative Robot Policies**|Yuke Zhu Team|[2604.13645](http://arxiv.org/abs/2604.13645)|**[link](https://science-of-co-training.github.io/)**|
+|**2026-04-15**|**Evolvable Embodied Agent for Robotic Manipulation via Long Short-Term Reflection and Optimization**|Xulong Zhang Team|[2604.13533](http://arxiv.org/abs/2604.13533)|null|
+|**2026-04-14**|**Utilizing Inpainting for Keypoint Detection for Vision-Based Control of Robotic Manipulators**|Berk Calli Team|[2604.13309](http://arxiv.org/abs/2604.13309)|null|
 |**2026-04-14**|**XRZero-G0: Pushing the Frontier of Dexterous Robotic Manipulation with Interfaces, Quality and Ratios**|Hao Wang Team|[2604.13001](http://arxiv.org/abs/2604.13001)|null|
 |**2026-04-14**|**Robotic Manipulation is Vision-to-Geometry Mapping ( $f(v) \rightarrow G$ ): Vision-Geometry Backbones over Language and Video Models**|Guangrun Wang Team|[2604.12908](http://arxiv.org/abs/2604.12908)|null|
 |**2026-04-14**|**Detecting Precise Hand Touch Moments in Egocentric Video**|Minh Hoai Team|[2604.12343](http://arxiv.org/abs/2604.12343)|null|
@@ -2293,6 +2300,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-15**|**One Token per Highly Selective Frame: Towards Extreme Compression for Long Video Understanding**|Yu-Xiong Wang Team|[2604.14149](http://arxiv.org/abs/2604.14149)|null|
+|**2026-04-15**|**HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System**|Ping Luo Team|[2604.14125](http://arxiv.org/abs/2604.14125)|**[link](https://tianshuoy.github.io/HiVLA-page/)**|
+|**2026-04-15**|**Training-Free Semantic Multi-Object Tracking with Vision-Language Models**|Lorenzo Vaquero Team|[2604.14074](http://arxiv.org/abs/2604.14074)|null|
+|**2026-04-15**|**Reward Design for Physical Reasoning in Vision-Language Models**|Sameera Horawalavithana Team|[2604.13993](http://arxiv.org/abs/2604.13993)|null|
+|**2026-04-15**|**MApLe: Multi-instance Alignment of Diagnostic Reports and Large Medical Images**|Georg Langs Team|[2604.13970](http://arxiv.org/abs/2604.13970)|**[link](https://openreview.net/forum?id=M8OO3CRbL9#discussion)**|
+|**2026-04-15**|**GeoAgentBench: A Dynamic Execution Benchmark for Tool-Augmented Agents in Spatial Analysis**|Wentao Yang Team|[2604.13888](http://arxiv.org/abs/2604.13888)|null|
+|**2026-04-15**|**Gaslight, Gatekeep, V1-V3: Early Visual Cortex Alignment Shields Vision-Language Models from Sycophantic Manipulation**|Chaklam Silpasuwanchai Team|[2604.13803](http://arxiv.org/abs/2604.13803)|null|
+|**2026-04-15**|**Failure Identification in Imitation Learning Via Statistical and Semantic Filtering**|Jean-Baptiste Mouret Team|[2604.13788](http://arxiv.org/abs/2604.13788)|null|
+|**2026-04-15**|**Vision-and-Language Navigation for UAVs: Progress, Challenges, and a Research Roadmap**|Ji Pei Team|[2604.13654](http://arxiv.org/abs/2604.13654)|null|
+|**2026-04-15**|**SocialMirror: Reconstructing 3D Human Interaction Behaviors from Monocular Videos with Semantic and Geometric Guidance**|Yuexin Ma Team|[2604.13581](http://arxiv.org/abs/2604.13581)|null|
+|**2026-04-15**|**UHR-BAT: Budget-Aware Token Compression Vision-Language model for Ultra-High-Resolution Remote Sensing**|Yang Gao Team|[2604.13565](http://arxiv.org/abs/2604.13565)|null|
+|**2026-04-15**|**CLIP Architecture for Abdominal CT Image-Text Alignment and Zero-Shot Learning: Investigating Batch Composition and Data Scaling**|Pankaj Gupta Team|[2604.13561](http://arxiv.org/abs/2604.13561)|null|
+|**2026-04-15**|**Evolvable Embodied Agent for Robotic Manipulation via Long Short-Term Reflection and Optimization**|Xulong Zhang Team|[2604.13533](http://arxiv.org/abs/2604.13533)|null|
+|**2026-04-15**|**From Relevance to Authority: Authority-aware Generative Retrieval in Web Search Engines**|Jongwuk Lee Team|[2604.13468](http://arxiv.org/abs/2604.13468)|null|
+|**2026-04-14**|**Concrete Jungle: Towards Concreteness Paved Contrastive Negative Mining for Compositional Understanding**|Vivek Gupta Team|[2604.13313](http://arxiv.org/abs/2604.13313)|null|
+|**2026-04-14**|**See&Say: Vision Language Guided Safe Zone Detection for Autonomous Package Delivery Drones**|Peng Wei Team|[2604.13292](http://arxiv.org/abs/2604.13292)|null|
+|**2026-04-14**|**SemiFA: An Agentic Multi-Modal Framework for Autonomous Semiconductor Failure Analysis Report Generation**|Shivam Chand Kaushik Team|[2604.13236](http://arxiv.org/abs/2604.13236)|**[link](https://huggingface.co/datasets/ShivamChand/SemiFA-930.)**|
 |**2026-04-14**|**SceneCritic: A Symbolic Evaluator for 3D Indoor Scene Synthesis**|Paola Cascante-Bonilla Team|[2604.13035](http://arxiv.org/abs/2604.13035)|**[link](https://lab-spell.github.io/SceneCritic/)**|
 |**2026-04-14**|**Representation geometry shapes task performance in vision-language modeling for CT enterography**|Ryan Stidham Team|[2604.13021](http://arxiv.org/abs/2604.13021)|null|
 |**2026-04-14**|**GlotOCR Bench: OCR Models Still Struggle Beyond a Handful of Unicode Scripts**|Hinrich Schütze Team|[2604.12978](http://arxiv.org/abs/2604.12978)|null|
@@ -6036,6 +6060,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-15**|**HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System**|Ping Luo Team|[2604.14125](http://arxiv.org/abs/2604.14125)|**[link](https://tianshuoy.github.io/HiVLA-page/)**|
+|**2026-04-15**|**Goal2Skill: Long-Horizon Manipulation with Adaptive Planning and Reflection**|Zhongzhu Pu Team|[2604.13942](http://arxiv.org/abs/2604.13942)|null|
+|**2026-04-15**|**Jump-Start Reinforcement Learning with Vision-Language-Action Regularization**|Loris Roveda Team|[2604.13733](http://arxiv.org/abs/2604.13733)|null|
+|**2026-04-15**|**Vision-and-Language Navigation for UAVs: Progress, Challenges, and a Research Roadmap**|Ji Pei Team|[2604.13654](http://arxiv.org/abs/2604.13654)|null|
 |**2026-04-14**|**HazardArena: Evaluating Semantic Safety in Vision-Language-Action Models**|Yu-Gang Jiang Team|[2604.12447](http://arxiv.org/abs/2604.12447)|null|
 |**2026-04-13**|**StarVLA- $α$ : Reducing Complexity in Vision-Language-Action Systems**|Jiaya Jia Team|[2604.11757](http://arxiv.org/abs/2604.11757)|null|
 |**2026-04-13**|**LARY: A Latent Action Representation Yielding Benchmark for Generalizable Vision-to-Action Alignment**|Xunliang Cai Team|[2604.11689](http://arxiv.org/abs/2604.11689)|**[link](https://meituan-longcat.github.io/LARYBench)**|
@@ -7028,6 +7056,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-14**|**Vectorizing Projection in Manifold-Constrained Motion Planning for Real-Time Whole-Body Control**|Zachary Kingston Team|[2604.13323](http://arxiv.org/abs/2604.13323)|null|
 |**2026-04-14**|**Learning Versatile Humanoid Manipulation with Touch Dreaming**|Ding Zhao Team|[2604.13015](http://arxiv.org/abs/2604.13015)|null|
 |**2026-04-14**|**Tree Learning: A Multi-Skill Continual Learning Framework for Humanoid Robots**|Linqi Ye Team|[2604.12909](http://arxiv.org/abs/2604.12909)|null|
 |**2026-04-13**|**Safe Human-to-Humanoid Motion Imitation Using Control Barrier Functions**|Anthony Tzes Team|[2604.11447](http://arxiv.org/abs/2604.11447)|null|
@@ -7803,6 +7832,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-15**|**Seedance 2.0: Advancing Video Generation for World Complexity**|Feilong Zuo Team|[2604.14148](http://arxiv.org/abs/2604.14148)|null|
+|**2026-04-15**|**From Synchrony to Sequence: Exo-to-Ego Generation via Interpolation**|Luc Van Gool Team|[2604.13793](http://arxiv.org/abs/2604.13793)|null|
+|**2026-04-15**|**DiT as Real-Time Rerenderer: Streaming Video Stylization with Autoregressive Diffusion Transformer**|Chen Liang Team|[2604.13509](http://arxiv.org/abs/2604.13509)|null|
+|**2026-04-15**|**VibeFlow: Versatile Video Chroma-Lux Editing through Self-Supervised Learning**|Jiaying Liu Team|[2604.13425](http://arxiv.org/abs/2604.13425)|null|
 |**2026-04-14**|**Lyra 2.0: Explorable Generative 3D Worlds**|Xuanchi Ren Team|[2604.13036](http://arxiv.org/abs/2604.13036)|**[link](https://research.nvidia.com/labs/sil/projects/lyra2/)**|
 |**2026-04-14**|**Generative Refinement Networks for Visual Synthesis**|Zehuan Yuan Team|[2604.13030](http://arxiv.org/abs/2604.13030)|**[link](https://github.com/MGenAI/GRN)**|
 |**2026-04-14**|**VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization**|Amir Zamir Team|[2604.12887](http://arxiv.org/abs/2604.12887)|**[link](https://videoflextok.epfl.ch/)**|
@@ -7813,7 +7846,7 @@ layout: default
 |**2026-04-13**|**LottieGPT: Tokenizing Vector Animation for Autoregressive Generation**|Hao Zhao Team|[2604.11792](http://arxiv.org/abs/2604.11792)|**[link](https://lottiegpt.github.io/)**|
 |**2026-04-13**|**HDR Video Generation via Latent Alignment with Logarithmic Encoding**|Daniel Cohen-Or Team|[2604.11788](http://arxiv.org/abs/2604.11788)|**[link](https://HDR-LumiVid.github.io)**|
 |**2026-04-13**|**Empowering Video Translation using Multimodal Large Language Models**|Min Zhang Team|[2604.11283](http://arxiv.org/abs/2604.11283)|null|
-|**2026-04-13**|**Script-a-Video: Deep Structured Audio-visual Captions via Factorized Streams and Relational Grounding**|Tencent Hunyuan Team Team|[2604.11244](http://arxiv.org/abs/2604.11244)|null|
+|**2026-04-15**|**Script-a-Video: Deep Structured Audio-visual Captions via Factorized Streams and Relational Grounding**|Tencent Hunyuan Team Team|[2604.11244](http://arxiv.org/abs/2604.11244)|null|
 |**2026-04-13**|**AIM: Intent-Aware Unified world action Modeling with Spatial Value Maps**|Jiayu Chen Team|[2604.11135](http://arxiv.org/abs/2604.11135)|null|
 |**2026-04-12**|**Immune2V: Image Immunization Against Dual-Stream Image-to-Video Generation**|James M. Rehg Team|[2604.10837](http://arxiv.org/abs/2604.10837)|null|
 |**2026-04-11**|**Agentic Video Generation: From Text to Executable Event Graphs via Tool-Constrained LLM Planning**|Marius Leordeanu Team|[2604.10383](http://arxiv.org/abs/2604.10383)|null|
@@ -8218,6 +8251,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-15**|**Feed-Forward 3D Scene Modeling: A Problem-Driven Perspective**|Bohan Zhuang Team|[2604.14025](http://arxiv.org/abs/2604.14025)|**[link](https://ff3d-survey.github.io.)**|
+|**2026-04-15**|**Beyond State Consistency: Behavior Consistency in Text-Based World Models**|Dongmei Zhang Team|[2604.13824](http://arxiv.org/abs/2604.13824)|null|
+|**2026-04-15**|**Vision-and-Language Navigation for UAVs: Progress, Challenges, and a Research Roadmap**|Ji Pei Team|[2604.13654](http://arxiv.org/abs/2604.13654)|null|
 |**2026-04-14**|**Robotic Manipulation is Vision-to-Geometry Mapping ( $f(v) \rightarrow G$ ): Vision-Geometry Backbones over Language and Video Models**|Guangrun Wang Team|[2604.12908](http://arxiv.org/abs/2604.12908)|null|
 |**2026-04-14**|**A Dataset and Evaluation for Complex 4D Markerless Human Motion Capture**|Suryansh Kumar Team|[2604.12765](http://arxiv.org/abs/2604.12765)|null|
 |**2026-04-13**|**Grounded World Model for Semantically Generalizable Planning**|Harold Soh Team|[2604.11751](http://arxiv.org/abs/2604.11751)|null|
@@ -8631,6 +8667,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-15**|**Geometric Context Transformer for Streaming 3D Reconstruction**|Yinghao Xu Team|[2604.14141](http://arxiv.org/abs/2604.14141)|**[link](https://technology.robbyant.com/lingbot-map)**|
+|**2026-04-15**|**UMI-3D: Extending Universal Manipulation Interface from Vision-Limited to 3D Spatial Perception**|Ziming Wang Team|[2604.14089](http://arxiv.org/abs/2604.14089)|null|
+|**2026-04-15**|**Free Geometry: Refining 3D Reconstruction from Longer Versions of Itself**|Xingyi Yang Team|[2604.14048](http://arxiv.org/abs/2604.14048)|**[link](https://github.com/hiteacherIamhumble/Free-Geometry)**|
+|**2026-04-15**|**Feed-Forward 3D Scene Modeling: A Problem-Driven Perspective**|Bohan Zhuang Team|[2604.14025](http://arxiv.org/abs/2604.14025)|**[link](https://ff3d-survey.github.io.)**|
+|**2026-04-15**|**Rethinking Image-to-3D Generation with Sparse Queries: Efficiency, Capacity, and Input-View Bias**|Chensheng Peng Team|[2604.13905](http://arxiv.org/abs/2604.13905)|**[link](https://github.com/Pixtella/SparseGen)**|
+|**2026-04-15**|**ReConText3D: Replay-based Continual Text-to-3D Generation**|Muhammad Zeshan Afzal Team|[2604.13730](http://arxiv.org/abs/2604.13730)|null|
+|**2026-04-15**|**Beyond Voxel 3D Editing: Learning from 3D Masks and Self-Constructed Data**|Qi Zhang Team|[2604.13688](http://arxiv.org/abs/2604.13688)|null|
+|**2026-04-15**|**Reconstruction of a 3D wireframe from a single line drawing via generative depth estimation**|Hod Lipson Team|[2604.13549](http://arxiv.org/abs/2604.13549)|null|
+|**2026-04-15**|**RobotPan: A 360 $^\circ$ Surround-View Robotic Vision System for Embodied Perception**|Yijie Guo Team|[2604.13476](http://arxiv.org/abs/2604.13476)|**[link](https://robotpan.github.io/)**|
+|**2026-04-14**|**Neural 3D Reconstruction of Planetary Surfaces from Descent-Phase Wide-Angle Imagery**|Paul Henderson Team|[2604.13235](http://arxiv.org/abs/2604.13235)|null|
+|**2026-04-14**|**PatchPoison: Poisoning Multi-View Datasets to Degrade 3D Reconstruction**|Charu Sharma Team|[2604.13153](http://arxiv.org/abs/2604.13153)|null|
 |**2026-04-14**|**Robotic Manipulation is Vision-to-Geometry Mapping ( $f(v) \rightarrow G$ ): Vision-Geometry Backbones over Language and Video Models**|Guangrun Wang Team|[2604.12908](http://arxiv.org/abs/2604.12908)|null|
 |**2026-04-14**|**ELoG-GS: Dual-Branch Gaussian Splatting with Luminance-Guided Enhancement for Extreme Low-light 3D Reconstruction**|Ziyang Zheng Team|[2604.12592](http://arxiv.org/abs/2604.12592)|**[link](https://www.codabench.org/competitions/13854/)**|
 |**2026-04-14**|**Cross-Attentive Multiview Fusion of Vision-Language Embeddings**|Javier Civera Team|[2604.12551](http://arxiv.org/abs/2604.12551)|null|
@@ -8638,7 +8685,7 @@ layout: default
 |**2026-04-14**|**ArtifactWorld: Scaling 3D Gaussian Splatting Artifact Restoration via Video Generation Models**|Zhenyu Wu Team|[2604.12251](http://arxiv.org/abs/2604.12251)|null|
 |**2026-04-13**|**ReefMapGS: Enabling Large-Scale Underwater Reconstruction by Closing the Loop Between Multimodal SLAM and Gaussian Splatting**|Yogesh Girdhar Team|[2604.11992](http://arxiv.org/abs/2604.11992)|null|
 |**2026-04-13**|**Who Handles Orientation? Investigating Invariance in Feature Matching**|Georg Bökman Team|[2604.11809](http://arxiv.org/abs/2604.11809)|null|
-|**2026-04-13**|**SyncFix: Fixing 3D Reconstructions via Multi-View Synchronization**|Anand Bhattad Team|[2604.11797](http://arxiv.org/abs/2604.11797)|null|
+|**2026-04-14**|**SyncFix: Fixing 3D Reconstructions via Multi-View Synchronization**|Anand Bhattad Team|[2604.11797](http://arxiv.org/abs/2604.11797)|**[link](https://syncfix.github.io/)**|
 |**2026-04-13**|**The nature of tilted supercritical accretion discs**|Zach Smith Team|[2604.11794](http://arxiv.org/abs/2604.11794)|null|
 |**2026-04-14**|**MR.ScaleMaster: Scale-Consistent Collaborative Mapping from Crowd-Sourced Monocular Videos**|Giseop Kim Team|[2604.11372](http://arxiv.org/abs/2604.11372)|null|
 |**2026-04-13**|**Any 3D Scene is Worth 1K Tokens: 3D-Grounded Representation for Scene Generation at Scale**|Peidong Liu Team|[2604.11331](http://arxiv.org/abs/2604.11331)|**[link](https://wswdx.github.io/3DRAE)**|
@@ -9085,6 +9132,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-15**|**Training-Free Test-Time Contrastive Learning for Large Language Models**|Fei Liu Team|[2604.13552](http://arxiv.org/abs/2604.13552)|null|
 |**2026-04-14**|**Efficient Retrieval Scaling with Hierarchical Indexing for Large Scale Recommendation**|Chonglin Sun Team|[2604.12965](http://arxiv.org/abs/2604.12965)|null|
 |**2026-04-14**|**Bootstrapping Video Semantic Segmentation Model via Distillation-assisted Test-Time Adaptation**|Kuk-Jin Yoon Team|[2604.10950](http://arxiv.org/abs/2604.10950)|null|
 |**2026-04-12**|**BridgeSim: Unveiling the OL-CL Gap in End-to-End Autonomous Driving**|Bolei Zhou Team|[2604.10856](http://arxiv.org/abs/2604.10856)|null|
@@ -9228,7 +9276,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-04-13**|**AIM: Intent-Aware Unified world action Modeling with Spatial Value Maps**|Jiayu Chen Team|[2604.11135](http://arxiv.org/abs/2604.11135)|null|
 |**2026-04-10**|**VAG: Dual-Stream Video-Action Generation for Embodied Data Synthesis**|Zheng Zhu Team|[2604.09330](http://arxiv.org/abs/2604.09330)|null|
-|**2026-04-07**|**Action Images: End-to-End Policy Learning via Multiview Video Generation**|Chuang Gan Team|[2604.06168](http://arxiv.org/abs/2604.06168)|**[link](https://actionimages.github.io/)**|
+|**2026-04-15**|**Action Images: End-to-End Policy Learning via Multiview Video Generation**|Chuang Gan Team|[2604.06168](http://arxiv.org/abs/2604.06168)|**[link](https://actionimages.github.io/)**|
 |**2026-04-07**|**JailWAM: Jailbreaking World Action Models in Robot Control**|Yao Mu Team|[2604.05498](http://arxiv.org/abs/2604.05498)|null|
 |**2026-04-05**|**DriveVA: Video Action Models are Zero-Shot Drivers**|Hao Cheng Team|[2604.04198](http://arxiv.org/abs/2604.04198)|null|
 |**2026-04-03**|**Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model**|Tieniu Tan Team|[2604.03181](http://arxiv.org/abs/2604.03181)|**[link](https://lpy1219.github.io/MV-VDP-Web/)**|
