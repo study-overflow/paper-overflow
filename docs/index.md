@@ -2,20 +2,24 @@
 layout: default
 ---
 
-## Updated on 2026.04.26
+## Updated on 2026.04.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**GCImOpt: Learning efficient goal-conditioned policies by imitating optimal trajectories**|Jesús F. Palacián Team|[2604.22724](http://arxiv.org/abs/2604.22724)|**[link](https://jongoiko.github.io/gcimopt/)**|
+|**2026-04-24**|**GazeVLA: Learning Human Intention for Robotic Manipulation**|Wentao Zhu Team|[2604.22615](http://arxiv.org/abs/2604.22615)|null|
+|**2026-04-24**|**QDTraj: Exploration of Diverse Trajectory Primitives for Articulated Objects Robotic Manipulation**|Stéphane Doncieux Team|[2604.22551](http://arxiv.org/abs/2604.22551)|**[link](https://kappel.web.isir.upmc.fr/trajectory_primitive_website)**|
+|**2026-04-24**|**CodeGraphVLP: Code-as-Planner Meets Semantic-Graph State for Non-Markovian Vision-Language-Action Models**|Ngan Le Team|[2604.22238](http://arxiv.org/abs/2604.22238)|null|
 |**2026-04-23**|**VistaBot: View-Robust Robot Manipulation via Spatiotemporal-Aware View Synthesis**|Wenchao Ding Team|[2604.21914](http://arxiv.org/abs/2604.21914)|null|
 |**2026-04-23**|**Nemobot Games: Crafting Strategic AI Gaming Agents for Interactive Learning with Large Language Models**|Shangxin Guo Team|[2604.21896](http://arxiv.org/abs/2604.21896)|null|
 |**2026-04-23**|**RPG: Robust Policy Gating for Smooth Multi-Skill Transitions in Humanoid Fighting**|Dong Wang Team|[2604.21355](http://arxiv.org/abs/2604.21355)|null|
 |**2026-04-23**|**Full-Body Dynamic Safety for Robot Manipulators: 3D Poisson Safety Functions for CBF-Based Safety Filters**|Aaron D. Ames Team|[2604.21189](http://arxiv.org/abs/2604.21189)|null|
 |**2026-04-22**|**Open-H-Embodiment: A Large-Scale Dataset for Enabling Foundation Models in Medical Robotics**|Axel Krieger Team|[2604.21017](http://arxiv.org/abs/2604.21017)|**[link](https://open-h.github.io/open-h-embodiment/)**|
 |**2026-04-22**|**DeVI: Physics-based Dexterous Human-Object Interaction via Synthetic Video Imitation**|Hanbyul Joo Team|[2604.20841](http://arxiv.org/abs/2604.20841)|**[link](https://snuvclab.github.io/devi/)**|
-|**2026-04-22**|**PokeVLA: Empowering Pocket-Sized Vision-Language-Action Model with Comprehensive World Knowledge Guidance**|Wenchao Ding Team|[2604.20834](http://arxiv.org/abs/2604.20834)|null|
+|**2026-04-24**|**PokeVLA: Empowering Pocket-Sized Vision-Language-Action Model with Comprehensive World Knowledge Guidance**|Wenchao Ding Team|[2604.20834](http://arxiv.org/abs/2604.20834)|null|
 |**2026-04-22**|**Visual-Tactile Peg-in-Hole Assembly Learning from Peg-out-of-Hole Disassembly**|Shan Luo Team|[2604.20712](http://arxiv.org/abs/2604.20712)|null|
 |**2026-04-23**|**FingerEye: Continuous and Unified Vision-Tactile Sensing for Dexterous Manipulation**|Lin Shao Team|[2604.20689](http://arxiv.org/abs/2604.20689)|null|
 |**2026-04-22**|**Passive Variable Impedance For Shared Control**|Alin Albu-Schäffer Team|[2604.20557](http://arxiv.org/abs/2604.20557)|null|
@@ -2345,6 +2349,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**Contrastive Semantic Projection: Faithful Neuron Labeling with Contrastive Examples**|Maximilian Dreyer Team|[2604.22477](http://arxiv.org/abs/2604.22477)|null|
+|**2026-04-24**|**DocPrune:Efficient Document Question Answering via Background, Question, and Comprehension-aware Token Pruning**|Hyunwoo J. Kim Team|[2604.22281](http://arxiv.org/abs/2604.22281)|null|
+|**2026-04-24**|**CAGE-SGG: Counterfactual Active Graph Evidence for Open-Vocabulary Scene Graph Generation**|Siyuan Chen Team|[2604.22274](http://arxiv.org/abs/2604.22274)|null|
+|**2026-04-24**|**CharTide: Data-Centric Chart-to-Code Generation via Tri-Perspective Tuning and Inquiry-Driven Evolution**|Alex Jinpeng Wang Team|[2604.22192](http://arxiv.org/abs/2604.22192)|null|
+|**2026-04-24**|**Sum-of-Checks: Structured Reasoning for Surgical Safety with Large Vision-Language Models**|Eric Wong Team|[2604.22156](http://arxiv.org/abs/2604.22156)|null|
+|**2026-04-23**|**Incentivizing Neuro-symbolic Language-based Reasoning in VLMs via Reinforcement Learning**|Karthic Palaniappan Team|[2604.22062](http://arxiv.org/abs/2604.22062)|null|
+|**2026-04-23**|**Source-Modality Monitoring in Vision-Language Models**|Ellie Pavlick Team|[2604.22038](http://arxiv.org/abs/2604.22038)|**[link](https://github.com/ethahtz/source-modality-monitoring)**|
 |**2026-04-23**|**When Prompts Override Vision: Prompt-Induced Hallucinations in LVLMs**|Matthieu Cord Team|[2604.21911](http://arxiv.org/abs/2604.21911)|null|
 |**2026-04-23**|**From Codebooks to VLMs: Evaluating Automated Visual Discourse Analysis for Climate Change on Social Media**|Margret Keuper Team|[2604.21786](http://arxiv.org/abs/2604.21786)|null|
 |**2026-04-23**|**Ramen: Robust Test-Time Adaptation of Vision-Language Models with Active Sample Selection**|Jingrui He Team|[2604.21728](http://arxiv.org/abs/2604.21728)|null|
@@ -6213,12 +6224,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**RedVLA: Physical Red Teaming for Vision-Language-Action Models**|Jiaming Ji Team|[2604.22591](http://arxiv.org/abs/2604.22591)|null|
+|**2026-04-24**|**CodeGraphVLP: Code-as-Planner Meets Semantic-Graph State for Non-Markovian Vision-Language-Action Models**|Ngan Le Team|[2604.22238](http://arxiv.org/abs/2604.22238)|null|
 |**2026-04-23**|**Long-Horizon Manipulation via Trace-Conditioned VLA Planning**|Sifei Liu Team|[2604.21924](http://arxiv.org/abs/2604.21924)|**[link](https://www.liuisabella.com/LoHoManip)**|
 |**2026-04-23**|**CorridorVLA: Explicit Spatial Constraints for Generative Action Heads via Sparse Anchors**|Jianqiang Li Team|[2604.21241](http://arxiv.org/abs/2604.21241)|null|
 |**2026-04-23**|**ReCAPA: Hierarchical Predictive Correction to Mitigate Cascading Failures**|Hao Wang Team|[2604.21232](http://arxiv.org/abs/2604.21232)|null|
 |**2026-04-23**|**How VLAs (Really) Work In Open-World Environments**|Sajjad Pakdamansavoji Team|[2604.21192](http://arxiv.org/abs/2604.21192)|null|
 |**2026-04-22**|**Open-H-Embodiment: A Large-Scale Dataset for Enabling Foundation Models in Medical Robotics**|Axel Krieger Team|[2604.21017](http://arxiv.org/abs/2604.21017)|**[link](https://open-h.github.io/open-h-embodiment/)**|
-|**2026-04-22**|**PokeVLA: Empowering Pocket-Sized Vision-Language-Action Model with Comprehensive World Knowledge Guidance**|Wenchao Ding Team|[2604.20834](http://arxiv.org/abs/2604.20834)|null|
+|**2026-04-24**|**PokeVLA: Empowering Pocket-Sized Vision-Language-Action Model with Comprehensive World Knowledge Guidance**|Wenchao Ding Team|[2604.20834](http://arxiv.org/abs/2604.20834)|null|
 |**2026-04-22**|**Temporal Difference Calibration in Sequential Tasks: Application to Vision-Language-Action Models**|Aviv Tamar Team|[2604.20472](http://arxiv.org/abs/2604.20472)|null|
 |**2026-04-22**|**A Vision-Language-Action Model for Adaptive Ultrasound-Guided Needle Insertion and Needle Tracking**|Shing Shin Cheng Team|[2604.20347](http://arxiv.org/abs/2604.20347)|null|
 |**2026-04-22**|**Cortex 2.0: Grounding World Models in Real-World Industrial Deployment**|Pavan Upputuri Team|[2604.20246](http://arxiv.org/abs/2604.20246)|null|
@@ -8032,6 +8045,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond**|Jiaya Jia Team|[2604.22748](http://arxiv.org/abs/2604.22748)|null|
+|**2026-04-24**|**Video Analysis and Generation via a Semantic Progress Function**|Daniel Cohen-Or Team|[2604.22554](http://arxiv.org/abs/2604.22554)|null|
 |**2026-04-23**|**Seeing Fast and Slow: Learning the Flow of Time in Videos**|Wei-Chiu Ma Team|[2604.21931](http://arxiv.org/abs/2604.21931)|**[link](https://seeing-fast-and-slow.github.io/)**|
 |**2026-04-22**|**Building a Precise Video Language with Human-AI Oversight**|Deva Ramanan Team|[2604.21718](http://arxiv.org/abs/2604.21718)|**[link](https://linzhiqiu.github.io/papers/chai/)**|
 |**2026-04-23**|**WorldMark: A Unified Benchmark Suite for Interactive Video World Models**|Yongtao Ge Team|[2604.21686](http://arxiv.org/abs/2604.21686)|null|
@@ -8492,6 +8507,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond**|Jiaya Jia Team|[2604.22748](http://arxiv.org/abs/2604.22748)|null|
+|**2026-04-24**|**Beyond Patient Invariance: Learning Cardiac Dynamics via Action-Conditioned JEPAs**|Wagner Meira Team|[2604.22618](http://arxiv.org/abs/2604.22618)|null|
+|**2026-04-24**|**OccDirector: Language-Guided Behavior and Interaction Generation in 4D Occupancy Space**|Jianbing Shen Team|[2604.22240](http://arxiv.org/abs/2604.22240)|null|
+|**2026-04-24**|**A Co-Evolutionary Theory of Human-AI Coexistence: Mutualism, Governance, and Dynamics in Complex Societies**|Somyajit Chakraborty Team|[2604.22227](http://arxiv.org/abs/2604.22227)|null|
+|**2026-04-24**|**dWorldEval: Scalable Robotic Policy Evaluation via Discrete Diffusion World Model**|Yichen Zhu Team|[2604.22152](http://arxiv.org/abs/2604.22152)|null|
+|**2026-04-23**|**Causality and Semantic Separation**|Adam Chlipala Team|[2604.22041](http://arxiv.org/abs/2604.22041)|null|
 |**2026-04-23**|**Seeing Fast and Slow: Learning the Flow of Time in Videos**|Wei-Chiu Ma Team|[2604.21931](http://arxiv.org/abs/2604.21931)|**[link](https://seeing-fast-and-slow.github.io/)**|
 |**2026-04-23**|**Machine Behavior in Relational Moral Dilemmas: Moral Rightness, Predicted Human Behavior, and Model Decisions**|Meeyoung Cha Team|[2604.21871](http://arxiv.org/abs/2604.21871)|null|
 |**2026-04-23**|**Hi-WM: Human-in-the-World-Model for Scalable Robot Post-Training**|Yichen Zhu Team|[2604.21741](http://arxiv.org/abs/2604.21741)|**[link](https://hi-wm.github.io/)**|
@@ -8942,7 +8963,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-04-23**|**CuRast: Cuda-Based Software Rasterization for Billions of Triangles**|Michael Wimmer Team|[2604.21749](http://arxiv.org/abs/2604.21749)|null|
+|**2026-04-24**|**Long-tail Internet photo reconstruction**|Ruojin Cai Team|[2604.22714](http://arxiv.org/abs/2604.22714)|**[link](https://megadepth-x.github.io/)**|
+|**2026-04-24**|**Holo360D: A Large-Scale Real-World Dataset with Continuous Trajectories for Advancing Panoramic 3D Reconstruction and Beyond**|Wufan Zhao Team|[2604.22482](http://arxiv.org/abs/2604.22482)|null|
+|**2026-04-24**|**EvFlow-GS: Event Enhanced Motion Deblurring with Optical Flow for 3D Gaussian Splatting**|Rong Xiao Team|[2604.22183](http://arxiv.org/abs/2604.22183)|null|
+|**2026-04-24**|**PAGaS: Pixel-Aligned 1DoF Gaussian Splatting for Depth Refinement**|Edmond Boyer Team|[2604.22129](http://arxiv.org/abs/2604.22129)|null|
+|**2026-04-23**|**Conditional Diffusion Posterior Alignment for Sparse-View CT Reconstruction**|Benjamin Bejar Team|[2604.21960](http://arxiv.org/abs/2604.21960)|null|
+|**2026-04-24**|**CuRast: Cuda-Based Software Rasterization for Billions of Triangles**|Michael Wimmer Team|[2604.21749](http://arxiv.org/abs/2604.21749)|null|
 |**2026-04-23**|**Sculpt4D: Generating 4D Shapes via Sparse-Attention Diffusion Transformers**|Kai Han Team|[2604.21592](http://arxiv.org/abs/2604.21592)|null|
 |**2026-04-22**|**GeoRect4D: Geometry-Compatible Generative Rectification for Dynamic Sparse-View 3D Reconstruction**|Wenjun Zhang Team|[2604.20784](http://arxiv.org/abs/2604.20784)|null|
 |**2026-04-22**|**GeoRelight: Learning Joint Geometrical Relighting and Reconstruction with Flexible Multi-Modal Diffusion Transformers**|Javier Romero Team|[2604.20715](http://arxiv.org/abs/2604.20715)|**[link](https://yuxuan-xue.com)**|
